@@ -1,13 +1,12 @@
 {
   "premium": [],
   "free": [],
-  "standard": [
-    "meee"
-  ],
+  "standard": [],
   "blacklist": [
     "me",
     "me",
     "profrogcreator",
-    "me"
+    "me",
+    "meee"
   ]
 }
