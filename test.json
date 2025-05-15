@@ -1,10 +1,9 @@
 {
   "premium": [],
   "free": [],
-  "standard": [
-    "me"
-  ],
+  "standard": [],
   "blacklist": [
+    "me",
     "me"
   ]
 }
