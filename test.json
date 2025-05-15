@@ -1,11 +1,5 @@
 {
   "premium": [],
-  "free": [
-    "RobloxUser123",
-    "AnotherUser456",
-    "ciaaa"
-  ],
-  "standard": [
-    "test"
-  ]
+  "free": [],
+  "standard": []
 }
