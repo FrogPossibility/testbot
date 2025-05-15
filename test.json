@@ -1,8 +1,8 @@
 {
-  "premium": [],
-  "free": [
+  "premium": [
     "me"
   ],
+  "free": [],
   "standard": [],
   "blacklist": [
     "soul"
