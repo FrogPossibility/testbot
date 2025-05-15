@@ -1,7 +1,7 @@
 {
-  "premium": [],
-  "free": [],
-  "standard": [
+  "premium": [
     "me"
-  ]
+  ],
+  "free": [],
+  "standard": []
 }
