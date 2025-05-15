@@ -2,8 +2,5 @@
   "premium": [],
   "free": [],
   "standard": [],
-  "blacklist": [
-    "soul",
-    "me"
-  ]
+  "blacklist": []
 }
