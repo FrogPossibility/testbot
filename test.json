@@ -1,6 +1,8 @@
 {
   "premium": [],
-  "free": [],
+  "free": [
+    "profrogcreator"
+  ],
   "standard": [],
   "blacklist": [
     "me",
